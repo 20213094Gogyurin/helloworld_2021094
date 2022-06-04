@@ -55,5 +55,5 @@ top 실행 전 옵션
 + SIGHUP(HUP) : hang up의 약자로 프로세스를 재시작시키는 시그널이다.
 + SIGINT(INT) : 인터럽트. 실행을 중지시킨다.[CTRL] + [C]를 눌렀을 때 보내지는 시그널이다.
 + SIGQUIT(QUIT) :키보드 종료 [CTRL] + [w]
-+ SIGKILL(KILL)
++ SIGKILL(KILL): 무조건 종료, 즉 강제 종료시키는 시그널입니다.
 + SIGTERM(TERM) :TERMINATE의 약자로 가능한 정상 종료시키는 시그널로 KILL 명령의 기본
