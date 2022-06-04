@@ -57,3 +57,6 @@ top 실행 전 옵션
 + SIGQUIT(QUIT) :키보드 종료 [CTRL] + [w]
 + SIGKILL(KILL): 무조건 종료, 즉 강제 종료시키는 시그널입니다.
 + SIGTERM(TERM) :TERMINATE의 약자로 가능한 정상 종료시키는 시그널로 KILL 명령의 기본
++ CONT :CONTINUE.STOP등에 의해 정지된 프로세스를 다시 실행한다.
++ STOP:무조건적,즉각적 정지한다.
+
