@@ -39,3 +39,8 @@ top 실행 전 옵션
 1) 리눅스 명령어 **jobs**
 + jobs 명령어는 작업이 중지된 상태나 백그라운드로 진행 중인 상태를 표시.
 <img width="409" alt="jobs" src="https://user-images.githubusercontent.com/106871417/172000353-251bb077-450f-4aea-9bca-8a0482263a21.PNG">
+
+|제목|설명|
+|-----|---|
+|-l|프로세스 그룹 ID를 state 필드 앞에 출력|
+
