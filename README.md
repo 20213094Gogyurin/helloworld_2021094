@@ -35,3 +35,7 @@ top 실행 전 옵션
 + ps -o format : 사용자가 지정한 format대로 출력합니다. format에 대해서는 설명이 길지만 간략하게 원하는 column만 보여준다고 기억하시면 됩니다. 예를 들어 사용자가 임의로 pid, ppid, cmd, uid 등을 표시할 수 있습니다.
 
 ---------------------
+## jobs
+1) 리눅스 명령어 **jobs**
++ jobs 명령어는 작업이 중지된 상태나 백그라운드로 진행 중인 상태를 표시.
+<img width="409" alt="jobs" src="https://user-images.githubusercontent.com/106871417/172000353-251bb077-450f-4aea-9bca-8a0482263a21.PNG">
